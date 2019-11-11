@@ -1,0 +1,16 @@
+﻿body {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.hero-body.bg-med {
+    background-color: black;
+    background: url('/media/bg-med.jpg');
+    background-size: cover;
+}
+
+div.login-input {
+    width: 30%;
+    margin-right: 30%;
+    margin-right: 35%;
+    margin-left: auto;
+}

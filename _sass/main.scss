@@ -1,0 +1,10 @@
+﻿@charset "utf-8";
+@import "../node_modules/bulma/sass/utilities/initial-variables";
+
+.bg-home {
+    background: url('/media/bg-home.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+@import "../node_modules/bulma/bulma";
