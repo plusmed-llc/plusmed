@@ -35,7 +35,7 @@
 					<div class="navbar-item">
 						<div class="buttons">
 							<a class="button is-primary" href="/pages/signup.aspx">
-								<strong>Sign up</strong>
+								<strong>Cadastrar</strong>
 							</a>
 						</div>
 					</div>

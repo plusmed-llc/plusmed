@@ -34,16 +34,6 @@
 				<div class="navbar-start">
 					<a class="navbar-item" href="/Default.aspx">Home</a>
 				</div>
-				<div class="navbar-end">
-					<a class="navbar-item" href="/pages/login.aspx">Login</a>
-					<div class="navbar-item">
-						<div class="buttons">
-							<a class="button is-primary" href="/pages/signup.aspx">
-								<strong>Sign up</strong>
-							</a>
-						</div>
-					</div>
-				</div>
 			</div>
 
 		</nav>
