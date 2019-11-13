@@ -68,7 +68,7 @@
 					</div>
 					<div class="field">
 						<div class="control has-text-centered">
-							<asp:Button ID="btn_login" runat="server" Text="Login" CssClass="button is-success" Width="30%" />
+							<asp:Button ID="btn_login" runat="server" Text="Login" CssClass="button is-success" Width="30%" OnClick="btn_login_Click" />
 						</div>
 					</div>
 					<div class="field">

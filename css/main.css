@@ -3,6 +3,13 @@
   background-size: cover;
   background-position: center; }
 
+footer.footer {
+  padding: 3rem 1.5rem; }
+  footer.footer a {
+    transition: ease-in-out 0.2s; }
+  footer.footer a:hover {
+    transition: ease-in-out 0.2s; }
+
 /*! bulma.io v0.7.5 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
